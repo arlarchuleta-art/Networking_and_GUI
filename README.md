@@ -19,7 +19,7 @@ To complete this program successfully, the implementation deploys across 5 core 
 
 ## Milestone 2 Update: Server Networking Structure 
 * **DeployedComponent Added:** `Server.java`
-* * **Details:** Completed the persistent server logic to receive incoming matrix data, dispatch four concurrent threads, return the solution, and honor the TERMINATE string via instanceof.  
+* **Details:** Completed the persistent server logic to receive incoming matrix data, dispatch four concurrent threads, return the solution, and honor the TERMINATE string via instanceof.  
 
 ## Timeline
 - ThreadOperation uploaded: 07/15/2026-7:30AM
