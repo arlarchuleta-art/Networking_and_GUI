@@ -17,7 +17,12 @@ To complete this program successfully, the implementation deploys across 5 core 
 * **Component Added:** `ThreadOperation.jav`
 * **Details:** Imported and integrated the multi-threaded quadrant summation logic from previous coursework
 
+## Milestone 2 Update: Server Networking Structure 
+* **DeployedComponent Added:** `Server.java`
+* * **Details:** Completed the persistent server logic to receive incoming matrix data, dispatch four concurrent threads, return the solution, and honor the TERMINATE string via instanceof.  
+
 ## Timeline
 - ThreadOperation uploaded: 07/15/2026-7:30AM
+- Server uploaded: 07/15/2026-8:26AM
 
   
