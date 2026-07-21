@@ -21,8 +21,13 @@ To complete this program successfully, the implementation deploys across 5 core 
 * **DeployedComponent Added:** `Server.java`
 * **Details:** Completed the persistent server logic to receive incoming matrix data, dispatch four concurrent threads, return the solution, and honor the TERMINATE string via instanceof.  
 
+## Milestone 3 Update: Server Entry Point Deployed
+* **Component Added:** ServerStart.java
+* **Details:** Implemented the main driver class to instantiate and run the server in an infinite loop waiting for client connections
+
 ## Timeline
 - ThreadOperation uploaded: 07/15/2026-7:30AM
 - Server uploaded: 07/15/2026-8:26AM
+- ServerStart uploaded: 07/15/2026-9:16AM
 
   
