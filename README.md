@@ -33,11 +33,16 @@ To complete this program successfully, the implementation deploys across 5 core 
 * **Components Added:**  `ClientStart.java`, Test Execution Log
 * **Validation Status:**  TESTING PHASE INITIALIZED
 * **Details:**  Created the client start driver, completed all five required classes, and prepared the environment for active local compilation and verification testing via Command Prompt.
-  
-## Timeline
+
+## Milestone 6 Update: Test Data Integration
+* **Components Added:** `matrix.txt` (and associated test files)
+* **Details:** Brought in the verified matrix text files from the previous lab to serve as input for the client-side file-reading text field during testing.
+
+ ## Timeline
 - ThreadOperation uploaded: 07/15/2026-7:30AM
 - Server uploaded: 07/15/2026-8:26AM
 - ServerStart uploaded: 07/15/2026-9:16AM
 - Client uploaded: 07/15/2026-12:55PM
 - ClientStart uploaded & Testing: 07/16/2026-6:55AM
-  
+- Martix txt files uploaded & Testing continued: 07/16/2026-5:20PM
+
