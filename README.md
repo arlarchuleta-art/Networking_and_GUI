@@ -39,10 +39,10 @@ To complete this program successfully, the implementation deploys across 5 core 
 * **Details:** Brought in the verified matrix text files from the previous lab to serve as input for the client-side file-reading text field during testing.
 
  ## Timeline
-- ThreadOperation uploaded: 07/15/2026-7:30AM
-- Server uploaded: 07/15/2026-8:26AM
-- ServerStart uploaded: 07/15/2026-9:16AM
-- Client uploaded: 07/15/2026-12:55PM
-- ClientStart uploaded & Testing: 07/16/2026-6:55AM
-- Martix txt files uploaded & Testing continued: 07/16/2026-5:20PM
+- ThreadOperation uploaded: 07/21/2026-7:30AM
+- Server uploaded: 07/21/2026-8:26AM
+- ServerStart uploaded: 07/21/2026-9:16AM
+- Client uploaded: 07/21/2026-12:55PM
+- ClientStart uploaded & Testing: 07/22/2026-6:55AM
+- Martix txt files uploaded & Testing continued: 07/22/2026-5:20PM
 
